@@ -7,6 +7,14 @@ met interface, om automatisch links toe te voegen aan excel.
 Dit gaan we doen met VBA (Visual Basic for Applications).
 Een programmeertaal ontwikkelt door Microsoft speciaal voor gebruik binnen applicaties.
 
+## Inhoudsopgave
+
+1. [De Ontwikkelingsomgeving Activeren](#de-ontwikkelingsomgeving-activeren)
+2. [De Ontwikkelingsomgeving & Formulieren Aanmaken](#de-ontwikkelingsomgeving--formulieren-aanmaken)
+3. [De Werkset & Formulieren Ontwerpen](#de-werkset--formulieren-ontwerpen)
+4. [De Annuleer Knop](#de-annuleer-knop)
+5. [De Ok Knop](#de-ok-knop)
+
 ## De Ontwikkelingsomgeving Activeren
 
 Om bij de ontwikkelingsomgeving te komen moet je een aantal dingen doen.
